@@ -1,10 +1,15 @@
 # grunt-bump-pom - version 0.0.6
+[![Retire Status](http://retire.insecurity.today/api/image?uri=https://raw.githubusercontent.com/phun-ky/grunt-bump-pom/master/package.json)](http://retire.insecurity.today/api/image?uri=https://raw.githubusercontent.com/phun-ky/grunt-bump-pom/master/package.json)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![Build Status](https://travis-ci.org/phun-ky/grunt-bump-pom.png)](https://travis-ci.org/phun-ky/grunt-bump-pom)
 [![Dependency Status](https://gemnasium.com/phun-ky/grunt-bump-pom.png)](https://gemnasium.com/phun-ky/grunt-bump-pom)
 [![NPM version](https://badge.fury.io/js/grunt-bump-pom.png)](http://badge.fury.io/js/grunt-bump-pom)
 
 > A grunt plugin to bump the deploy version in your pom xml file
+
+## No more development
+
+I will no longer develop this plugin any further and I strongly suggest users of this plugin to either fork it and continue the development on their hand, or [find another](https://www.npmjs.com/search?q=grunt+bump+pom) plugin.
 
 ##Table of Contents
 * [Getting started](#getting-started)
